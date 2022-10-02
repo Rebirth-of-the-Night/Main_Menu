@@ -2,5 +2,5 @@
     "icon": "icon",
     "ticker_text": "test 1 2 3",
     "link_text": "link text",
-    "link_url": "www.google.com"
+    "link_url": "https://www.google.com/"
 }
