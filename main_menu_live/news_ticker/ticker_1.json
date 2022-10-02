@@ -1,6 +1,5 @@
 {
-    "icon": "icon",
-    "ticker_text": "test 1 2 3",
-    "link_text": "link text",
-    "link_url": "https://www.google.com/"
+    "icon": "https://raw.githubusercontent.com/Rebirth-of-the-Night/Main_Menu/master/icon2a.png",
+    "text": "test",
+    "url": "https://www.google.com/"
 }
