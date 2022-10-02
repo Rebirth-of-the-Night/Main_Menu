@@ -1,2 +1,2 @@
-test placeholder text
-test placeholder text
+ticker 1 text
+blah blah yoyo
